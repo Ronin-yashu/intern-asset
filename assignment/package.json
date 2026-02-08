@@ -12,6 +12,7 @@
     "@ai-sdk/google": "^3.0.22",
     "@ai-sdk/openai": "^3.0.26",
     "@ai-sdk/react": "^3.0.79",
+    "@google/genai": "^1.40.0",
     "@google/generative-ai": "^0.24.1",
     "@hookform/resolvers": "^5.2.2",
     "@nanostores/react": "github:ai/react",
