@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What are the hospital visiting hours?",
+    "answer": "Our visiting hours are Monday to Friday: 9:00 AM - 6:00 PM, Saturday: 9:00 AM - 2:00 PM. We are closed on Sundays."
+  },
+  {
+    "id": 2,
+    "question": "How do I register as a patient?",
+    "answer": "You can register by filling out our Patient Support form on the website. Provide your name, email, phone number, doctor name, appointment date, and your condition. Our team will contact you shortly."
+  },
+  {
+    "id": 3,
+    "question": "How can I volunteer at the hospital?",
+    "answer": "Fill out our Volunteer Registration form with your details and availability. Our team will contact you within 2-3 business days to discuss volunteer opportunities."
+  },
+  {
+    "id": 4,
+    "question": "What should I bring for my first appointment?",
+    "answer": "Please bring a valid ID, insurance card (if applicable), list of current medications, and any previous medical records relevant to your visit."
+  },
+  {
+    "id": 5,
+    "question": "How do I contact the hospital?",
+    "answer": "You can reach us via email at support@hospital.com or info@hospital.com, call us at +91 1234567890, or use our Contact Us form on the website."
+  },
+  {
+    "id": 6,
+    "question": "Can I cancel or reschedule my appointment?",
+    "answer": "Yes, please contact us at least 24 hours in advance at +91 1234567890 or email support@hospital.com to cancel or reschedule your appointment."
+  },
+  {
+    "id": 7,
+    "question": "What volunteer opportunities are available?",
+    "answer": "We have opportunities in patient support, administrative assistance, event coordination, and community outreach. Fill out the Volunteer Registration form to learn more."
+  },
+  {
+    "id": 8,
+    "question": "Do you accept insurance?",
+    "answer": "We accept most major insurance plans. Please contact us with your insurance details to verify coverage before your appointment."
+  },
+  {
+    "id": 9,
+    "question": "How do I get my test results?",
+    "answer": "Test results are typically available within 3-5 business days. You can collect them in person or request them via email by contacting support@hospital.com."
+  },
+  {
+    "id": 10,
+    "question": "What is the minimum age to volunteer?",
+    "answer": "Volunteers must be at least 18 years old. For volunteers aged 16-17, parental consent is required."
+  },
+  {
+    "id": 11,
+    "question": "Is parking available at the hospital?",
+    "answer": "Yes, we have free parking available for patients and visitors. The parking lot is located at the main entrance."
+  },
+  {
+    "id": 12,
+    "question": "What should I do in case of emergency?",
+    "answer": "For medical emergencies, call emergency services immediately or come directly to our emergency department, which is open 24/7."
+  },
+  {
+    "id": 13,
+    "question": "Can family members stay with patients?",
+    "answer": "One family member may stay with the patient during visiting hours. For overnight stays, please check with the nursing staff for specific ward policies."
+  },
+  {
+    "id": 14,
+    "question": "How long does volunteer training take?",
+    "answer": "Volunteer orientation and training typically takes 2-3 hours. You'll learn about hospital policies, safety procedures, and your specific role."
+  },
+  {
+    "id": 15,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept cash, credit/debit cards, UPI, and insurance. Payment is required at the time of service unless prior arrangements have been made."
+  }
+]
